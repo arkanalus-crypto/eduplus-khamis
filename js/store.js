@@ -20,7 +20,7 @@ import {
 (function (global) {
   'use strict';
 
-  const SCHOOL_CODE = 'EDKH';
+  const SCHOOL_CODE = 'EDPK';
   const SESSION_TTL_MS = 1000 * 60 * 60 * 8;
   // نطاق بريد اصطناعي داخلي: يسمح بتسجيل الدخول باسم مستخدم بسيط (مثل "accountant") بدل بريد إلكتروني حقيقي،
   // مع الاستمرار في استخدام Firebase Authentication الفعلي خلف الكواليس (الذي يتطلب بريدًا لتسجيل الدخول).
@@ -488,7 +488,7 @@ import {
     // ---------- نسخ احتياطي واستعادة (الآن على مستوى قاعدة بيانات Firestore المشتركة، لا المتصفح فقط) ----------
     exportBackupJSON() {
       const payload = {
-        app: 'edusteps-khamis', school_code: SCHOOL_CODE, backup_version: 2,
+        app: 'eduplus-khamis', school_code: SCHOOL_CODE, backup_version: 2,
         exported_at: new Date().toISOString(),
         data: { vouchers: cache.vouchers, students: cache.students, counters: cache.counters, studentCounters: cache.studentCounters },
       };

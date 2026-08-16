@@ -1265,7 +1265,7 @@
   });
 
   // ---------- الطباعة (إيصال سند / بطاقة طالب) — عبر نافذة طباعة المتصفح، يمكن حفظها كـ PDF ----------
-  const SCHOOL_PRINT_NAME = 'إديو ستبس - خميس';
+  const SCHOOL_PRINT_NAME = 'إيديوبلس - خميس';
   const SCHOOL_PRINT_COUNTRY = 'المملكة العربية السعودية';
 
   function printHTML(html) {
