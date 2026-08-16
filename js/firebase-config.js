@@ -15,5 +15,5 @@ window.FIREBASE_CONFIG = {
   projectId: "edusteps-khamis",
   storageBucket: "edusteps-khamis.firebasestorage.app",
   messagingSenderId: "766959634196",
-  appId: "1:766959634196:web:bdeddaa074697d56d1e401"
+  appId: "1:766959634196:web:5e330fc8d406f76ed1e401"
 };
