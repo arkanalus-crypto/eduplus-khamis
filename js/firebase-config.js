@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------
 
 window.FIREBASE_CONFIG = {
-apiKey: "AIzaSyDiLP5vCqE58_C-VZLW8lcgXEvo-t54S8E",
+   apiKey: "AIzaSyDiLP5vCqE58_C-VZLW8lcgXEvo-t54S8E",
   authDomain: "edusteps-khamis.firebaseapp.com",
   projectId: "edusteps-khamis",
   storageBucket: "edusteps-khamis.firebasestorage.app",
