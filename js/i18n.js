@@ -19,11 +19,11 @@
 
   // ---- هوية المدرسة (تُستبدل تلقائيًا لكل موقع عبر متغير BRAND أدناه) ----
   addAll({
-    'إيديوبلس - خميس': 'EduPlus Khamis',
-    'Cute Kids — كيوت كيدز إنترناشونال': 'EduPlus Khamis',
-    'إيديوبلس - خميس. جميع الحقوق محفوظة.': 'EduPlus Khamis. All rights reserved.',
-    'النظام المحاسبي المدرسي | إيديوبلس - خميس': 'School Accounting System | EduPlus Khamis',
-    'النظام المحاسبي | إيديوبلس - خميس': 'Accounting System | EduPlus Khamis',
+    'المسار السوداني': 'Al-Masar Al-Sudani',
+    'Cute Kids — كيوت كيدز إنترناشونال': 'Al-Masar Al-Sudani',
+    'المسار السوداني. جميع الحقوق محفوظة.': 'Al-Masar Al-Sudani. All rights reserved.',
+    'النظام المحاسبي المدرسي | المسار السوداني': 'School Accounting System | Al-Masar Al-Sudani',
+    'النظام المحاسبي | المسار السوداني': 'Accounting System | Al-Masar Al-Sudani',
     'المملكة العربية السعودية': 'Kingdom of Saudi Arabia',
   });
 
@@ -344,6 +344,7 @@
     'خصم': 'Discount',
     'لا توجد رسوم مُفصَّلة': 'No itemized fees',
     'طباعة بطاقة الطالب (PDF)': 'Print Student Card (PDF)',
+    'طباعة بطاقة دخول الامتحان': 'Print Exam Entry Card',
     'طباعة كشف كامل بكل السندات': 'Print Full Voucher Statement',
   });
 
@@ -553,6 +554,12 @@
     'قسم الحسابات —': 'Accounts Department —',
     'بطاقة تعريف الطالب': 'Student ID Card',
     '— تعريف سريع عبر مسح رمز QR': '— quick ID via QR scan',
+    'بطاقة دخول الامتحان': 'Exam Entry Card',
+    'رقم الجلوس': 'Seat No.',
+    'صورة الطالب': 'Student Photo',
+    'توقيع المدير': "Manager's Signature",
+    'ختم المدرسة': 'School Seal',
+    'ختم': 'Seal',
     'كشف كامل بسندات القبض —': 'Full Receipt Voucher Statement —',
     'تاريخ الطباعة': 'Print Date',
     'الرصيد المستحق من دفعات سابقة': 'Balance Due From Previous Payments',

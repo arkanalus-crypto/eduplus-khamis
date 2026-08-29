@@ -1283,7 +1283,7 @@
   });
 
   // ---------- الطباعة (إيصال سند / بطاقة طالب) — عبر نافذة طباعة المتصفح، يمكن حفظها كـ PDF ----------
-  const SCHOOL_PRINT_NAME = 'إيديوبلس - خميس';
+  const SCHOOL_PRINT_NAME = 'المسار السوداني';
   function printHTML(html) {
     $('#printArea').innerHTML = html;
     setTimeout(() => window.print(), 60);
@@ -1444,7 +1444,7 @@
         <div class="ec-body">
           <div class="ec-info">
             <div class="pr-row"><span>اسم الطالب</span><b>${escapeHtml(s.name)}</b></div>
-            <div class="pr-row"><span>رقم القيد</span><b class="mono">${escapeHtml(s.reg_no)}</b></div>
+            <div class="pr-row"><span>رقم الجلوس</span><b class="mono">${escapeHtml(s.reg_no)}</b></div>
             <div class="pr-row"><span>الصف / المرحلة</span><b>${g ? escapeHtml(g.name) : '—'}</b></div>
           </div>
           <div class="ec-photo">${s.photo ? `<img src="${s.photo}" alt="" />` : 'صورة الطالب'}</div>

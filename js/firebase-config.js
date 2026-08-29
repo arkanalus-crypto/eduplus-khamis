@@ -10,10 +10,10 @@
 // ------------------------------------------------------------------
 
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyDiLP5vCqE58_C-VZLW8lcgXEvo-t54S8E",
-  authDomain: "edusteps-khamis.firebaseapp.com",
-  projectId: "edusteps-khamis",
-  storageBucket: "edusteps-khamis.firebasestorage.app",
-  messagingSenderId: "766959634196",
-  appId: "1:766959634196:web:5e330fc8d406f76ed1e401"
+  apiKey: "AIzaSyC1eLDfHjG9eBjPRTgp1hAaHkzoxgbuCJ8",
+  authDomain: "almasar-alsudani.firebaseapp.com",
+  projectId: "almasar-alsudani",
+  storageBucket: "almasar-alsudani.firebasestorage.app",
+  messagingSenderId: "711114800171",
+  appId: "1:711114800171:web:e2c112026b601726753e6e",
 };
