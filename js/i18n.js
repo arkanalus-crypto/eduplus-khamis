@@ -19,11 +19,11 @@
 
   // ---- هوية المدرسة (تُستبدل تلقائيًا لكل موقع عبر متغير BRAND أدناه) ----
   addAll({
-    'المسار السوداني': 'Al-Masar Al-Sudani',
-    'Cute Kids — كيوت كيدز إنترناشونال': 'Al-Masar Al-Sudani',
-    'المسار السوداني. جميع الحقوق محفوظة.': 'Al-Masar Al-Sudani. All rights reserved.',
-    'النظام المحاسبي المدرسي | المسار السوداني': 'School Accounting System | Al-Masar Al-Sudani',
-    'النظام المحاسبي | المسار السوداني': 'Accounting System | Al-Masar Al-Sudani',
+    'إيديوبلس - خميس': 'EduPlus Khamis',
+    'Cute Kids — كيوت كيدز إنترناشونال': 'EduPlus Khamis',
+    'إيديوبلس - خميس. جميع الحقوق محفوظة.': 'EduPlus Khamis. All rights reserved.',
+    'النظام المحاسبي المدرسي | إيديوبلس - خميس': 'School Accounting System | EduPlus Khamis',
+    'النظام المحاسبي | إيديوبلس - خميس': 'Accounting System | EduPlus Khamis',
     'المملكة العربية السعودية': 'Kingdom of Saudi Arabia',
   });
 
@@ -555,7 +555,6 @@
     'بطاقة تعريف الطالب': 'Student ID Card',
     '— تعريف سريع عبر مسح رمز QR': '— quick ID via QR scan',
     'بطاقة دخول الامتحان': 'Exam Entry Card',
-    'رقم الجلوس': 'Seat No.',
     'صورة الطالب': 'Student Photo',
     'توقيع المدير': "Manager's Signature",
     'ختم المدرسة': 'School Seal',
