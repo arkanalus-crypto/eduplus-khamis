@@ -20,7 +20,6 @@
   // ---- هوية المدرسة (تُستبدل تلقائيًا لكل موقع عبر متغير BRAND أدناه) ----
   addAll({
     'إيديوبلس - خميس': 'EduPlus Khamis',
-    'Cute Kids — كيوت كيدز إنترناشونال': 'EduPlus Khamis',
     'إيديوبلس - خميس. جميع الحقوق محفوظة.': 'EduPlus Khamis. All rights reserved.',
     'النظام المحاسبي المدرسي | إيديوبلس - خميس': 'School Accounting System | EduPlus Khamis',
     'النظام المحاسبي | إيديوبلس - خميس': 'Accounting System | EduPlus Khamis',
